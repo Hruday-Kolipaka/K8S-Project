@@ -1,6 +1,6 @@
 # Devops-Project.
 
-![Tools](https://github.com/pandacloud1/DevopsProject1/assets/134182273/b553e105-136d-4ce4-93ec-540809cdc6ee)
+![Tools](https://github.com/Hruday-Kolipaka/DevopsProject1/assets/134182273/b553e105-136d-4ce4-93ec-540809cdc6ee)
 
 This repository contains the following components:
 
