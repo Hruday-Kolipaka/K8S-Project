@@ -1,6 +1,5 @@
 # Devops-Project.
-
-![Tools](https://github.com/Hruday-Kolipaka/DevopsProject1/assets/134182273/b553e105-136d-4ce4-93ec-540809cdc6ee)
+![Tools](https://github.com/user-attachments/assets/07250399-4e2e-4afc-843b-8bd5cf059e61)
 
 This repository contains the following components:
 
